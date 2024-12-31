@@ -1,0 +1,17 @@
+#home {
+    background:rgb(244, 248, 187);
+    color: white;
+}
+
+.custom-bg-color {
+    background-color: #332219; /* Cor personalizada */
+}
+
+.custom-title {
+    color: #332219; /* Cor personalizada para o título */
+}
+
+.custom-paragraph {
+    color: #332219; /* Cor personalizada para o parágrafo */
+}
+
