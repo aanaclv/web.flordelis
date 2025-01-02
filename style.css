@@ -1,5 +1,5 @@
 #home {
-    background:rgb(244, 248, 187);
+    background: #F4F8BB;
     color: white;
 }
 
@@ -13,5 +13,27 @@
 
 .custom-paragraph {
     color: #332219; /* Cor personalizada para o parágrafo */
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+    margin: 5px 15px;
+    text-decoration: none;
+}
+
+#computador {
+    background:#ebf094;
+}
+
+#celular {
+    background: #cdd17d;
+}
+
+#topicos {
+    background:rgb(244, 248, 187);
 }
 
